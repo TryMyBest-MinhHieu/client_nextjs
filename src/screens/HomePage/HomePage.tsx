@@ -3,7 +3,7 @@
 const HomePageScreen = () => {
     return (
         <>
-            <div>hello</div>
+            {/* <div>hello</div> */}
         </>
     );
 };

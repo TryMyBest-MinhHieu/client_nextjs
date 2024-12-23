@@ -1,0 +1,12 @@
+.sideBar{
+    position: fixed;
+    top:0;
+    height: 100%;
+    width: 250px;
+    background-color: var(--sidebar-color);
+}
+
+.sideBar .image_text .imagepng {
+    width: 40px;
+    border-radius: 6px;
+}
