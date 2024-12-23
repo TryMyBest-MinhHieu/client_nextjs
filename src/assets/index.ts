@@ -1,0 +1,1 @@
+export { default as IconArrowNext } from "./Icons/arrow-next.svg";
