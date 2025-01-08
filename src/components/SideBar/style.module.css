@@ -3,10 +3,17 @@
     top:0;
     height: 100%;
     width: 250px;
+    padding: 10px 14px;
     background-color: var(--sidebar-color);
 }
 
 .sideBar .image_text .imagepng {
     width: 40px;
     border-radius: 6px;
+}
+
+.sideBar header .image_text {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
 }

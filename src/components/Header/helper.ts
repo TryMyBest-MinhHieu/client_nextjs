@@ -1,4 +1,4 @@
-import { menuPages } from "@/constant/menuPage/menuPage";
+// import { menuPages } from "@/constant/menuPage/menuPage";
 
 export const listItemNavs = [
     {
@@ -9,10 +9,11 @@ export const listItemNavs = [
         { title: "Thiết kế nội thất biệt thự", href: "#" },
         { title: "Thiết kế nội thất nhà phố", href: "#" },
         { title: "Thiết kế nội thất căn hộ", href: "#" },
-        { title: "Thiết kế nội thất văn phòng", href: menuPages.thiet_ke_noi_that_van_phong },
-        { title: "Thiết kế nội thất khách sạn", href: "#" },
+        // { title: "Thiết kế nội thất văn phòng", href: menuPages.thiet_ke_noi_that_van_phong },
+        { title: "Thiết kế nội thất văn phòng", href: "#" },
         { title: "Thiết kế nội thất nhà hàng", href: "#" },
         { title: "Báo giá thiết kế", href: "#" },
+        { title: "Thiết kế nội thất khách sạn", href: "#" },
       ],
     },
     {
